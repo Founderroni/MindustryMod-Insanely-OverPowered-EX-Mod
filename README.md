@@ -1,18 +1,16 @@
 Description/Info: I took Anuke's example mod and removed a few items like the silver turret. I then edited most-to-all the files to make everything more overpowered and easier to obtain (everything in the mod is now free to craft). Some people would kind of see this like a cheat mod, idk it's your opinion. Maybe in the future I can edit other modder's mods if you want me to and/or just make modpacks for people (by combining multiple mods into 1 folder mod thing). Might add new things in a much later update if I feel like it.
 
 
-Important: I have fixed the bug of the turret not being able to accept lead as ammo. V1.6 releasing soon.
 
+Update V1.6:
 
-Update V1.5:
+-Fixed duo turret not accepting lead as ammo
 
--Added/Edited the duo turret to now support lead as an ammo type (Extremely powerful)
+-OP Drill no longer needs power and liquid to run.
 
--Added powerful electrum mech (didn't show up for me in menu, hopefully it shows up for you if not then I might as well remove the file
+-Updated the README.md file
 
--Fixed/Updated the README.md file
-
--Updated to V1.5
+-Updated to V1.6
 [Fixed_Download]
 
 
