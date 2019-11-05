@@ -1,4 +1,4 @@
-V1.7 Update [The Factory Update {1}]
+V1.7 Update [The Factory Update {V1}]
 
 This update will hopefully make the graphite press, silicon press, and kiln overpowered.
 
@@ -10,3 +10,11 @@ Completed:
 -Graphite Press
 
 [Input 1 coal, Output 500 Graphite]
+
+-Kiln
+
+[Input 1 Sand, Output 650 Metaglass]
+
+-Silicon Smelter
+
+[Input 1 Coal, Output 665 Silicon]
