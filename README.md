@@ -21,9 +21,9 @@ Update V1.7 [The Factory Update]:
 
 [Input 1 Coal, Output 665 Silicon]}
 
--Updated README.md
+- Updated README.md
 
--Added Upcoming! Tab
+- Added Upcoming! Tab
 
 
 
