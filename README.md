@@ -5,16 +5,26 @@ How to donwload: Do NOT press on Download Source (Zip). Press on the .zip file o
 
 
 
-Update V1.6:
+Update V1.7 [The Factory Update]:
 
--Fixed duo turret not accepting lead as ammo
+- The Graphite Press, Kiln, and Silicon Smelter have been modded to be very OverPowered.
 
--OP Drill no longer needs power and liquid to run.
+{-Graphite Press
 
--Updated the README.md file
+[Input 1 coal, Output 500 Graphite]
 
--Updated to V1.6
-[Fixed_Download]
+-Kiln
+
+[Input 1 Sand, Output 650 Metaglass]
+
+-Silicon Smelter
+
+[Input 1 Coal, Output 665 Silicon]}
+
+-Updated README.md
+
+-Added Upcoming! Tab
+
 
 
 Creator: Founder
