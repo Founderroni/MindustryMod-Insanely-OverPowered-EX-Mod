@@ -4,12 +4,9 @@ How to donwload: Do NOT press on Download Source (Zip). Press on the .zip file o
 
 Update V1.7 [The Factory Update]:
 
-
 - The Graphite Press, Kiln, and Silicon Smelter have been modded to be very OverPowered.
 
-
 - Updated README.md
-
 
 - Added Upcoming! Tab
 
